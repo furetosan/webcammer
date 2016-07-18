@@ -1,3 +1,13 @@
+###############
+###############
+##           ##
+## Webcammer ##
+##           ##
+###############
+###############
+
+As simple as possible updated version of an OpenCV face detection application and classification software based on:
+
 Webcam-Face-Detect
 ==================
 
